@@ -29,6 +29,7 @@ Acesse a url [`http://localhost:3000`] para
 ## 🛠 Tecnologias utilizadas
 
 <details>
+  <summary>Dependências</summary>
   <pre>
   "dependencies": {
       "@hookform/resolvers": "^3.1.0",
