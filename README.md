@@ -28,7 +28,7 @@ Acesse a url [`http://localhost:3000`] para
 
 ## 🛠 Tecnologias utilizadas
 
-<details>
+
   <pre>
   "dependencies": {
       "@hookform/resolvers": "^3.1.0",
@@ -57,7 +57,6 @@ Acesse a url [`http://localhost:3000`] para
       "typescript": "5.0.2"
     }
   </pre>
-</details>
 
 
 
